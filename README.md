@@ -1,7 +1,7 @@
 * Bullet point
 1. Luettelo
 2. Luettelo 2
-WOOOOOT!
+3. WOOOOOT!
 _Italic_
 
 __Bold__
